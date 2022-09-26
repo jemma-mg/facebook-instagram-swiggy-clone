@@ -1,3 +1,3 @@
 # web-dev
 
-Web Development Starter Projects
+Web Development Projects
